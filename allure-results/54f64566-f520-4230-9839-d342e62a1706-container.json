@@ -1,0 +1,1 @@
+{"uuid":"54f64566-f520-4230-9839-d342e62a1706","name":"com.myTest.PowerBITest.setUp","children":["5ad87ce5-7f33-49a1-a24b-87b5b57e031e"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732623854054,"stop":1732623856741}],"afters":[],"start":1732623854053,"stop":1732623856741}
